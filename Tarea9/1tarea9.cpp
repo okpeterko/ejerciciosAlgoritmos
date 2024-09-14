@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// Definición de una estructura para un Producto
+// Definición de una estructura para un Producto.
 struct Producto {
     int codigo;
     string nombre;
